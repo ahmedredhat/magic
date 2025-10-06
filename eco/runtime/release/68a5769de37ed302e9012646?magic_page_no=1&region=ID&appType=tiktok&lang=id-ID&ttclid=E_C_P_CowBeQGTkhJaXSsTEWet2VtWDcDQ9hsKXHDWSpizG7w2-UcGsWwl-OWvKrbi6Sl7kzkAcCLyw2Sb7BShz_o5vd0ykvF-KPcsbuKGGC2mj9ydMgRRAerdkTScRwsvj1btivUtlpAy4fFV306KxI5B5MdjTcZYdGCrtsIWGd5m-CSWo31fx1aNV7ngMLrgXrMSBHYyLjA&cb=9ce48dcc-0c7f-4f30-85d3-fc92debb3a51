@@ -1,1 +1,1 @@
-
+alert('XSS PoC on ' + document.domain);
